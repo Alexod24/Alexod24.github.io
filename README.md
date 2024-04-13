@@ -43,7 +43,7 @@
 
 <br clear="both">
 
-<img src="https://i.pinimg.com/564x/ce/e4/f9/cee4f917d13fb43fcf11a0a4a4f5af14.jpg" alt="bg" />
+<!-- <img src="https://i.pinimg.com/564x/ce/e4/f9/cee4f917d13fb43fcf11a0a4a4f5af14.jpg" alt="bg" /> -->
 
 ###
 
